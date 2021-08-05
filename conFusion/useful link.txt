@@ -1,0 +1,5 @@
+https://designshack.net/articles/typography/whats-the-deal-with-em-and-rem/
+https://css-tricks.com/rems-ems/
+https://www.sitepoint.com/understanding-responsive-web-design-how-to-manage-fonts/
+https://www.sitepoint.com/responsive-web-design-tips-bootstrap-css/
+https://www.w3.org/TR/css3-values/#length-value
